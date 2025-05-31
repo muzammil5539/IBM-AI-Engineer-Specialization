@@ -20,8 +20,6 @@ coursera IBM Specialization
 
 ##### Module 2 Summary and Highlights
 
-Congratulations! You have completed this lesson. At this point in the course, you know:
-
 Regression models relationships between a continuous target variable and explanatory features, covering simple and multiple regression types.
 
 Simple regression uses a single independent variable to estimate a dependent variable, while multiple regression involves more than one independent variable.
@@ -50,19 +48,18 @@ Gradient descent is an iterative process to minimize the cost function, which is
 
       Multiclass Classification
 
-#### Lab File [1 - Machine Learning with Python/module 3/Multiclass_Classification.ipynb](https://github.com/muzammil5539/IBM-AI-Engineer-Specialization/blob/main/1%20-%20Machine%20Learning%20with%20Python/module%203/Multiclass_Classification.ipynb)
-
+#### Lab File [1 - Machine Learning with Python/module 3/Multi-class_Classification.ipynb](https://github.com/muzammil5539/IBM-AI-Engineer-Specialization/blob/main/1%20-%20Machine%20Learning%20with%20Python/module%203/Multi-class_Classification.ipynb)
       Descision Trees
 
-#### Lab File [1 - Machine Learning with Python/module 3/Decision_Trees.ipynb](https://github.com/muzammil5539/IBM-AI-Engineer-Specialization/blob/main/1%20-%20Machine%20Learning%20with%20Python/module%203/Decision_Trees.ipynb)
+#### Lab File [1 - Machine Learning with Python/module 3/Decision_trees.ipynb](https://github.com/muzammil5539/IBM-AI-Engineer-Specialization/blob/main/1%20-%20Machine%20Learning%20with%20Python/module%203/Decision_trees.ipynb)
 
       Regression Trees
 
-#### Lab File [1 - Machine Learning with Python/module 3/Regression_Trees.ipynb](https://github.com/muzammil5539/IBM-AI-Engineer-Specialization/blob/main/1%20-%20Machine%20Learning%20with%20Python/module%203/Regression_Trees.ipynb)
+#### Lab File [1 - Machine Learning with Python/module 3/Regression_Trees_Taxi_Tip.ipynb](https://github.com/muzammil5539/IBM-AI-Engineer-Specialization/blob/main/1%20-%20Machine%20Learning%20with%20Python/module%203/Regression_Trees_Taxi_Tip.ipynb)
 
       Decision Trees and SVM
 
-#### Lab File [1 - Machine Learning with Python/module 3/Decision_Trees_and_SVM.ipynb](https://github.com/muzammil5539/IBM-AI-Engineer-Specialization/blob/main/1%20-%20Machine%20Learning%20with%20Python/module%203/Decision_Trees_and_SVM.ipynb)
+#### Lab File [1 - Machine Learning with Python/module 3/decision_tree_svm_ccFraud.ipynb](https://github.com/muzammil5539/IBM-AI-Engineer-Specialization/blob/main/1%20-%20Machine%20Learning%20with%20Python/module%203/decision_tree_svm_ccFraud.ipynb)
 
       KNN Classification
 
@@ -70,11 +67,9 @@ Gradient descent is an iterative process to minimize the cost function, which is
 
       Ensamble Learning (Random Forest + XGBoost)
 
-#### Lab File [1 - Machine Learning with Python/module 3/Ensemble_Learning.ipynb](https://github.com/muzammil5539/IBM-AI-Engineer-Specialization/blob/main/1%20-%20Machine%20Learning%20with%20Python/module%203/Ensemble_Learning.ipynb)
+#### Lab File [1 - Machine Learning with Python/module 3/Random_ Forests _XGBoost.ipynb](https://github.com/muzammil5539/IBM-AI-Engineer-Specialization/blob/main/1%20-%20Machine%20Learning%20with%20Python/module%203/Random_%20Forests%20_XGBoost.ipynb)
 
 ##### Module 3 Summary and Highlights
-
-Congratulations! You have completed this lesson. At this point in the course, you know:
 
 Classification is a supervised machine learning method used to predict labels on new data with applications in churn prediction, customer segmentation, loan default prediction, and multiclass drug prescriptions.
 

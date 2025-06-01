@@ -49,6 +49,7 @@ Gradient descent is an iterative process to minimize the cost function, which is
       Multiclass Classification
 
 #### Lab File [1 - Machine Learning with Python/module 3/Multi-class_Classification.ipynb](https://github.com/muzammil5539/IBM-AI-Engineer-Specialization/blob/main/1%20-%20Machine%20Learning%20with%20Python/module%203/Multi-class_Classification.ipynb)
+
       Descision Trees
 
 #### Lab File [1 - Machine Learning with Python/module 3/Decision_trees.ipynb](https://github.com/muzammil5539/IBM-AI-Engineer-Specialization/blob/main/1%20-%20Machine%20Learning%20with%20Python/module%203/Decision_trees.ipynb)
@@ -67,7 +68,7 @@ Gradient descent is an iterative process to minimize the cost function, which is
 
       Ensamble Learning (Random Forest + XGBoost)
 
-#### Lab File [1 - Machine Learning with Python/module 3/Random_ Forests _XGBoost.ipynb](https://github.com/muzammil5539/IBM-AI-Engineer-Specialization/blob/main/1%20-%20Machine%20Learning%20with%20Python/module%203/Random_%20Forests%20_XGBoost.ipynb)
+#### Lab File [1 - Machine Learning with Python/module 3/Random\_ Forests \_XGBoost.ipynb](https://github.com/muzammil5539/IBM-AI-Engineer-Specialization/blob/main/1%20-%20Machine%20Learning%20with%20Python/module%203/Random_%20Forests%20_XGBoost.ipynb)
 
 ##### Module 3 Summary and Highlights
 
@@ -94,3 +95,43 @@ Support Vector Machines (SVM) build classifiers by finding a hyperplane that max
 The bias-variance tradeoff affects model accuracy, and methods such as bagging, boosting, and random forests help manage bias and variance to improve model performance.
 
 Random forests use bagging to train multiple decision trees on bootstrapped data, improving accuracy by reducing variance.
+
+### module 4
+
+      K-Means-Customer-Seg
+
+#### Lab File [1 - Machine Learning with Python/module 4/K-Means-Customer-Seg.ipynb](https://github.com/muzammil5539/IBM-AI-Engineer-Specialization/blob/main/1%20-%20Machine%20Learning%20with%20Python/module%204/K-Means-Customer-Seg.ipynb)
+
+      Comparing_DBScan_HDBScan
+
+#### Lab File [1 - Machine Learning with Python/module 4/Comparing_DBScan_HDBScan.ipynb](https://github.com/muzammil5539/IBM-AI-Engineer-Specialization/blob/main/1%20-%20Machine%20Learning%20with%20Python/module%204/Comparing_DBScan_HDBScan.ipynb)
+
+      PCA
+
+#### Lab File [1 - Machine Learning with Python/module 4/PCA.ipynb](https://github.com/muzammil5539/IBM-AI-Engineer-Specialization/blob/main/1%20-%20Machine%20Learning%20with%20Python/module%204/PCA.ipynb)
+
+      tSNE_UMAP
+
+#### Lab File [1 - Machine Learning with Python/module 4/tSNE_UMAP.ipynb](https://github.com/muzammil5539/IBM-AI-Engineer-Specialization/blob/main/1%20-%20Machine%20Learning%20with%20Python/module%204/tSNE_UMAP.ipynb)
+
+##### Module 4 Summary and Highlights
+
+Clustering is a machine learning technique used to group data based on similarity, with applications in customer segmentation and anomaly detection.
+
+K-means clustering partitions data into clusters based on the distance between data points and centroids but struggles with imbalanced or non-convex clusters.
+
+Heuristic methods such as silhouette analysis, the elbow method, and the Davies-Bouldin Index help assess k-means performance.
+
+DBSCAN is a density-based algorithm that creates clusters based on density and works well with natural, irregular patterns.
+
+HDBSCAN is a variant of DBSCAN that does not require parameters and uses cluster stability to find clusters.
+
+Hierarchical clustering can be divisive (top-down) or agglomerative (bottom-up) and produces a dendrogram to visualize the cluster hierarchy.
+
+Dimension reduction simplifies data structure, improves clustering outcomes, and is useful in tasks such as face recognition (using eigenfaces).
+
+Clustering and dimension reduction work together to improve model performance by reducing noise and simplifying feature selection.
+
+PCA, a linear dimensionality reduction method, minimizes information loss while reducing dimensionality and noise in data.
+
+t-SNE and UMAP are other dimensionality reduction techniques that map high-dimensional data into lower-dimensional spaces for visualization and analysis.

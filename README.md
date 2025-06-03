@@ -158,7 +158,7 @@ t-SNE and UMAP are other dimensionality reduction techniques that map high-dimen
 
 #### Lab File [1 - Machine Learning with Python/module 5/ML_Pipelines_and_GridSearchCV.ipynb](https://github.com/muzammil5539/IBM-AI-Engineer-Specialization/blob/main/1%20-%20Machine%20Learning%20with%20Python/module%205/ML_Pipelines_and_GridSearchCV.ipynb)
 
-##### Module 4 Summary and Highlights
+##### Module 5 Summary and Highlights
 
 Supervised learning evaluation assesses a model's ability to predict outcomes for unseen data, often using a train/test split to estimate performance.
 

@@ -181,3 +181,13 @@ Data leakage occurs when training data includes information unavailable in real-
 Common modeling pitfalls include misinterpreting feature importance, ignoring class imbalance, and relying excessively on automated processes without causal analysis.
 
 Feature importance assessments should consider redundancy, scale sensitivity, and avoid misinterpretation, as well as inappropriate assumptions about causation.
+
+### module 5
+
+      Practice Final Project
+
+#### Lab File [1 - Machine Learning with Python/module 6/Practice_Project_v1.ipynb](https://github.com/muzammil5539/IBM-AI-Engineer-Specialization/blob/main/1%20-%20Machine%20Learning%20with%20Python/module%206/Practice_Project_v1.ipynb)
+
+      Final Project
+
+#### Lab File [1 - Machine Learning with Python/module 6/FinalProject_AUSWeather.ipynb](https://github.com/muzammil5539/IBM-AI-Engineer-Specialization/blob/main/1%20-%20Machine%20Learning%20with%20Python/module%206/FinalProject_AUSWeather.ipynb)

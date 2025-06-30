@@ -185,7 +185,7 @@ Lab File: [Practice_Project_Fruit_Classification_Using_TF.ipynb](module%207/Prac
 
 ### Final Project Classify Waste Products Using TL- FT-v1
 
-Lab File: [Final_Project_Classify_Waste_Products_Using_TL_FT_v1.ipynb](module%207/Final_Project_Classify_Waste_Products_Using_TL_FT_v1.ipynb)
+Lab File: [Final_Proj_Classify_Waste_Products_Using_TL_FT_v1.ipynb](module%207/Final_Proj_Classify_Waste_Products_Using_TL_FT_v1.ipynb)
 
 #### Module 7 Summary and Highlights
 

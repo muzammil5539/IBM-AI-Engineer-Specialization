@@ -147,7 +147,6 @@ cython_debug/
 # Data files
 *.csv
 *.dat
-*.h5
 *.hdf5
 *.pkl
 *.pickle
@@ -161,6 +160,5 @@ saved_models/
 checkpoints/
 
 # Logs and databases
-*.log
 *.sql
 *.sqlite

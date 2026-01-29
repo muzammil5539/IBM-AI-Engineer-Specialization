@@ -147,6 +147,11 @@ source venv/bin/activate
 ### 3. Install Required Dependencies
 
 ```bash
+# Install all dependencies from requirements.txt
+pip install -r requirements.txt
+
+# Or install individually:
+
 # Install Jupyter Notebook
 pip install jupyter notebook
 
@@ -157,7 +162,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 pip install tensorflow keras
 
 # Install additional libraries
-pip install opencv-python pillow
+pip install opencv-python pillow keras-tuner
 ```
 
 ### 4. Launch Jupyter Notebook

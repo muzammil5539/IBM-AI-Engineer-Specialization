@@ -25,8 +25,6 @@ This course provides a comprehensive introduction to machine learning using Pyth
 
 ### 📊 Labs
 
-### 📊 Labs
-
 1. **Simple Linear Regression**  
    📂 [Simple-Linear-Regression.ipynb](module%202/Simple-Linear-Regression.ipynb)
 
